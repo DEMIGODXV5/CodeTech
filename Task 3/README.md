@@ -110,6 +110,7 @@ This demonstrates the integration of NLP preprocessing with an AI-powered conver
 You: What is artificial intelligence?
 Bot: Artificial intelligence is the simulation of human intelligence by machines.
 ```
+Sample Testing video link : https://drive.google.com/file/d/1EchuxEoiDG-cJ8mju0L2Fz0fhxB_m_if/view?usp=drive_link
 
 ---
 
