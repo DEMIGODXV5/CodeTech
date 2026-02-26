@@ -3,7 +3,7 @@
 ## 📌 Objective
 The objective of this project is to build a Machine Learning model that can automatically classify emails as **Spam** or **Ham (Not Spam)** using Natural Language Processing techniques.
 
-This project is developed as part of the **Oasis Infobyte Internship Program (OIBSIP)**.
+
 
 ---
 
@@ -58,3 +58,4 @@ A Streamlit-based web app allows users to:
 - Deployed the model using Streamlit for real-world usage  
 
 ---
+
